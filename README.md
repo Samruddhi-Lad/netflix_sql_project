@@ -265,4 +265,9 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+### Stay Updated 
+
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media:
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/samruddhi-lad-0ba862267?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
